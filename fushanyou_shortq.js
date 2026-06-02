@@ -64,7 +64,7 @@ const shortQData = [
         ],
         sPy: [
             "duì yìng zǒng jié jù yì bì bèi yǐ de shēn céng hán yì",
-            "shuō míng yòng zhè zhǒng jiāng sǐ bù fú hé shí jì de guān niàn qù máng mù guǎn lǐ shì jiān zhèng shì bì rán huì bǎ yī qiè gǎo zá dài lái wú qióng de zāi nàn yǔ cuò wù"
+            "shuō míng yòng zhè zhǒng jiāng sǐ bù fú hé shí jì de guān niàn qù máng mù guǎn lǐ shì jiān zhèng shì bì rán huì bǎ yī qiè gǎo zá dài lái wú qióng de zāi nàn yǔ cuò wù bì bèi"
         ],
         sEn: "Step 1: Trace the deeper implication of 'yì bì bèi yǐ' (will inevitably turn out chaotic).<br>Step 2: Explain that forcing stagnant formulas onto volatile real-world issues results in total systemic ruin.",
         aZh: "如果治理社会也用这种生搬硬套的方法，必然会严重违背客观的规律和事实，最终把所有的国家政事全部彻底搞砸，带来颠倒荒谬的严重失败灾难。",
@@ -78,7 +78,7 @@ const shortQData = [
         qEn: "What wisdom can Malaysian secondary students gather from this narrative when choosing academic peers or personal friends?",
         sZh: [
             "1. 提炼核心人生启示：看一个人或一件事不能只看他的家庭背景或长辈的优势，必须要看他后天真正的个人实力与努力。",
-            "2. 结合考场或学校实际例子：比如我们在学校挑选合作做课题（Project）的组员时，不能因为他的父母是高官或高学历就盲目觉得他也很强，必须脚踏实地考察他本人的态度和真正的学习执行力。"
+            "2. 结合考场或学校实际例子：比如我们在学校挑选合作做课题的组员时，不能因为他的父母是高官或高学历就盲目觉得他也很强，必须脚踏实地考察他本人的态度和真正的学习执行力。"
         ],
         sPy: [
             "tí liàn hé xīn rén shēng qǐ shì kàn yī gè rén huò yī jiàn shì bù néng zhǐ kàn tā de jiā tíng bèi jǐng huò zhǎng bèi de yōu shì bì xū yào kàn tā hòu tiān zhēn zhèng de gè rén shí lì yǔ nǔ lì",
