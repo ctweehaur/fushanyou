@@ -42,7 +42,7 @@ const quizQuestions = [
     {
         id: 2,
         text: "文中的反问句“其子岂遽善游哉”中，“遽”字的正确用法是？",
-        py: "wén zhāng zhōng de fǎn wèn jù qí zǐ qǐ jù shàn yóu zāi zhōng jù zì de zhèng què yòng fǎ shì",
+        py: "wén zhōng de fǎn wèn jù qí zǐ qǐ jù shàn yóu zāi zhōng jù zì de zhèng què yòng fǎ shì",
         en: "What is the correct usage of the character 'jù' in the rhetorical question?",
         options: [
             {
